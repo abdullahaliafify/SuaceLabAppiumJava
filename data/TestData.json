@@ -1,0 +1,13 @@
+{
+    "Tasks Data":
+    [
+      {
+        "Username": "standard_user",
+        "Password": "secret_sauce",
+        "Firstname": "user",
+        "Lastname": "test",
+        "PostalCode": "1234"
+      }
+  ]
+
+}
